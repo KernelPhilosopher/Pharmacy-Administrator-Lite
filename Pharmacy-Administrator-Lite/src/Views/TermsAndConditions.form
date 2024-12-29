@@ -79,18 +79,12 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Segoe UI" size="30" style="1"/>
             </Property>
-            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-              <Color blue="0" green="0" red="0" type="rgb"/>
-            </Property>
             <Property name="horizontalAlignment" type="int" value="0"/>
             <Property name="text" type="java.lang.String" value="Terms and conditions."/>
           </Properties>
         </Component>
         <Component class="javax.swing.JButton" name="btnBack">
           <Properties>
-            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-              <Color blue="ff" green="ff" red="ff" type="rgb"/>
-            </Property>
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
@@ -122,20 +116,14 @@
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Microsoft YaHei UI" size="15" style="1"/>
                 </Property>
-                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-                  <Color blue="0" green="0" red="0" type="rgb"/>
-                </Property>
                 <Property name="lineWrap" type="boolean" value="true"/>
                 <Property name="rows" type="int" value="5"/>
-                <Property name="text" type="java.lang.String" value="Welcome to Pharmacy Administrator LITE the pharmacy management application but without MySQL database, as it is in its LITE version. By using this application, you agree to the following terms and conditions:&#xa;&#xa;Proper Use:&#xa;You agree to use the application only for legitimate and lawful purposes related to the management and operation of your pharmacy.&#xa;&#xa;Use of the application for illegal, fraudulent or harmful activities of any kind is prohibited.&#xa;&#xa;You are responsible for ensuring that your authorized personnel use the App properly and in accordance with applicable laws and regulations.&#xa;&#xa;You acknowledge that the App currently lacks a MySQL database and that upon closing the App all data entered will be reset and return to its initial state.&#xa;&#xa;Legal Compliance:&#xa;By using this App, you warrant that you will comply with all applicable laws, codes of conduct, authorizations and requirements of relevant governmental and regulatory authorities.&#xa;&#xa;You are solely responsible for dispensing medications, counseling patients, prescribing medications and providing pharmaceutical services through your business.&#xa;&#xa;Use of this application does not relieve you from complying with your legal and ethical responsibilities related to pharmacy practice.&#xa;&#xa;Data Protection:&#xa;You agree to protect the confidentiality and security of patient data and sensitive business information processed through the App.&#xa;&#xa;You must comply with all applicable laws and regulations regarding personal data protection.&#xa;&#xa;You are not authorized to share or disclose information about App users without their express consent.&#xa;&#xa;Limitation of Liability:&#xa;We strive to provide a reliable and secure App, but we do not guarantee that it will be free of errors or interruptions.&#xa;&#xa;We will not be liable for any damages or injuries that may result from your use of the App, provided that we have acted in good faith and without gross negligence.&#xa;&#xa;By using this app, you agree to be bound by these terms and conditions. If you do not agree with any of them, please do not use the app."/>
+                <Property name="text" type="java.lang.String" value="Welcome to Pharmacy Administrator Lite the pharmacy management application but without MySQL database, as it is in its Lite version. By using this application, you agree to the following terms and conditions:&#xa;&#xa;Proper Use:&#xa;You agree to use the application only for legitimate and lawful purposes related to the management and operation of your pharmacy.&#xa;&#xa;Use of the application for illegal, fraudulent or harmful activities of any kind is prohibited.&#xa;&#xa;You are responsible for ensuring that your authorized personnel use the App properly and in accordance with applicable laws and regulations.&#xa;&#xa;You acknowledge that the App currently lacks a MySQL database and that upon closing the App all data entered will be reset and return to its initial state.&#xa;&#xa;Legal Compliance:&#xa;By using this App, you warrant that you will comply with all applicable laws, codes of conduct, authorizations and requirements of relevant governmental and regulatory authorities.&#xa;&#xa;You are solely responsible for dispensing medications, counseling patients, prescribing medications and providing pharmaceutical services through your business.&#xa;&#xa;Use of this application does not relieve you from complying with your legal and ethical responsibilities related to pharmacy practice.&#xa;&#xa;Data Protection:&#xa;You agree to protect the confidentiality and security of patient data and sensitive business information processed through the App.&#xa;&#xa;You must comply with all applicable laws and regulations regarding personal data protection.&#xa;&#xa;You are not authorized to share or disclose information about App users without their express consent.&#xa;&#xa;Limitation of Liability:&#xa;We strive to provide a reliable and secure App, but we do not guarantee that it will be free of errors or interruptions.&#xa;&#xa;We will not be liable for any damages or injuries that may result from your use of the App, provided that we have acted in good faith and without gross negligence.&#xa;&#xa;By using this app, you agree to be bound by these terms and conditions. If you do not agree with any of them, please do not use the app."/>
                 <Property name="wrapStyleWord" type="boolean" value="true"/>
                 <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
                   <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
                     <LineBorder/>
                   </Border>
-                </Property>
-                <Property name="caretColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-                  <Color blue="0" green="0" red="0" type="rgb"/>
                 </Property>
                 <Property name="disabledTextColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                   <Color blue="0" green="0" red="0" type="rgb"/>
