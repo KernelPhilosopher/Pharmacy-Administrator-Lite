@@ -1,6 +1,6 @@
-# Pharmacy-Administrator-LITE
+# Pharmacy-Administrator-Lite
 
-Official repository of one of my first Java projects, this is Pharmacy Administrator LITE
+Official repository of one of my first Java projects, this is Pharmacy Administrator Lite
 
 ## Prerequisites
 
@@ -12,7 +12,7 @@ Before running the application, make sure you have:
 
 ## Installation
 
-1. Download the `.jar` file, located at: `Pharmacy Administrator LITE/dist/` in this repository.
+1. Download the `.jar` file, located at: `Pharmacy Administrator Lite/dist/` in this repository.
 2. Save it to a location on your computer where you have read and write permissions
 
 ## Running the Application
